@@ -1,5 +1,6 @@
 <img src = "https://4kwallpapers.com/images/walls/thumbs_3t/23149.png">
 ---
+
 # emoji-finder README
 
 This is the README for your extension "emoji-finder". After writing up a brief description, we recommend including the following sections.
